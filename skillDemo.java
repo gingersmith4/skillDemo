@@ -1,1 +1,5 @@
-public class skillDemo.java{}//continue this in VSCODE
+public class skillDemo{
+    public static int subtract(int first, int second){
+        return first - second;
+    } 
+}
